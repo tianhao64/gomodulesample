@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/tianhao64/gomodulesample
 
 go 1.13
 

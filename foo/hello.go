@@ -1,3 +1,3 @@
 package foo
 
-
+func Hello() {}

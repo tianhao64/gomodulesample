@@ -1,3 +1,5 @@
 package bar
 
+func Hello() {}
+
 
